@@ -2,4 +2,5 @@ rootProject.name = 'designpattern'
 include 'abstract-factory'
 include 'factory-method'
 include 'builder'
+include 'singleton'
 

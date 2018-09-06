@@ -4,7 +4,6 @@
 
 package io.github.lqqqqf.singleton;
 
-import io.github.lqqqqf.singleton.Singleton;
 import org.junit.Assert;
 import org.junit.Test;
 

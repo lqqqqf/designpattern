@@ -2,7 +2,7 @@
  * Copyright (c) 2016-2018. https://github.com/lqqqqf. All rights reserved.
  */
 
-package io.github.lqqqqf;
+package io.github.lqqqqf.singleton;
 
 import io.github.lqqqqf.singleton.Singleton;
 import org.junit.Assert;
